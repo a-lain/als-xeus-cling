@@ -1,0 +1,9 @@
+{
+  "display_name": "als-xeus-cling",
+  "argv": [
+      "/usr/bin/als-xeus-cling-kernel",
+      "-f",
+      "{connection_file}"
+  ],
+  "language": "c++17"
+}
